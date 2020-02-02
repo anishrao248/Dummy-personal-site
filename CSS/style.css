@@ -1,0 +1,124 @@
+body{
+    margin: 0px;
+    margin-bottom: auto;
+    text-align: center;
+    font-family: 'Montserrat Alternates', sans-serif;
+    color: #40514e;
+    
+}
+h1{
+   font-size: 5rem;
+   font-family: 'Montserrat Alternates', sans-serif;
+   margin: 50px auto 0 auto; 
+   color: #66BFBF;
+   line-height: 1;
+}
+.h41{
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+p{
+    line-height: 2;
+}
+
+.top{
+    background-color: powderblue;
+    position: relative;
+    padding-top: 100px;
+    margin: auto;
+}
+.topcloud{
+
+    position: absolute ;
+    right: 70%;
+    top: 50px;
+    }
+.botcloud{
+    position: absolute ;
+    left: 70%;
+    bottom: 300px;
+}
+hr{
+    color: yellowgreen;
+    border: none;
+    border-top: dotted;
+    border-width: 5px;
+    margin: 0 10% 0;
+}
+.p1{
+    width: 60%;
+    margin: auto;
+}
+
+h2{
+    color: #11999E;
+    padding-bottom: 10px;
+}
+a{
+    color: #11999E;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: #eaf6f6;
+}
+.skill-row{
+    align-content: center;
+    width: 60%;
+    margin:70px auto 100px auto;
+    text-align: left;
+}
+.bot{
+    background-color: powderblue;
+    padding: 50px 0 20px;
+}
+.contact-me{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.comp-img{
+    width: 20%;
+  float: left;
+  border-radius: 70%;
+  margin-right: 30px;
+    
+}
+.pika-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.hello-img{
+    width: 15%;
+}
+
+.pend{
+    color: #eaf6f6;
+    font-size: 0.75rem;
+}
+
+/*Button*/
+.myButton {
+	box-shadow: 0px 10px 14px -7px #276873;
+	background-color:#599bb3;
+	border-radius:17px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat Alternates', sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.myButton:hover {
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
