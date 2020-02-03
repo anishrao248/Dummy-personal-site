@@ -6,6 +6,8 @@ body{
     color: #40514e;
     
 }
+
+
 h1{
    font-size: 5rem;
    font-family: 'Montserrat Alternates', sans-serif;
@@ -27,17 +29,16 @@ p{
     background-color: powderblue;
     position: relative;
     padding-top: 100px;
-    margin: auto;
 }
 .topcloud{
 
     position: absolute ;
-    right: 70%;
-    top: 50px;
+    right: 300px;
+    top: 40px;
     }
 .botcloud{
     position: absolute ;
-    left: 70%;
+    left: 250px;
     bottom: 300px;
 }
 hr{
@@ -70,6 +71,11 @@ a:hover{
     margin:70px auto 100px auto;
     text-align: left;
 }
+
+.mid{
+    margin: 100px 0;
+}
+
 .bot{
     background-color: powderblue;
     padding: 50px 0 20px;
@@ -96,7 +102,7 @@ a:hover{
 
 .pend{
     color: #eaf6f6;
-    font-size: 0.6rem;
+    font-size: 0.75rem;
 }
 
 /*Button*/
@@ -121,4 +127,3 @@ a:hover{
 	position:relative;
 	top:1px;
 }
-
